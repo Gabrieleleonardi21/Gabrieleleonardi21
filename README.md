@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gabriele Leonardi
+Full stack developer junior · Roma
 
-<!--
-**Gabrieleleonardi21/Gabrieleleonardi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dopo anni nell'hospitality ho completato il corso Full Stack Development + AI di Epicode.
+Lavoro con Java, Spring Boot, PostgreSQL, React e TypeScript, e uso Claude Code ogni giorno.
 
-Here are some ideas to get you started:
+## Progetti
+- [Hoop 3x3](https://github.com/Gabrieleleonardi21/Hoops-3x3) e [backend](https://github.com/Gabrieleleonardi21/hoop3x3-backend): gestione di tornei di basket, con assistente AI
+- [TO-DO](https://github.com/Gabrieleleonardi21/TO-DO): gestionale di attività con Docker Compose, Flyway e Testcontainers
+- [Build-week-5](https://github.com/Gabrieleleonardi21/Build-week-5): piattaforma eventi di team
+- [build-week-4](https://github.com/Gabrieleleonardi21/build-week-4): CRM di team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatti
+[LinkedIn](https://www.linkedin.com/in/gabriele-leonardi-5a742b209/) · leonardi.gabriele9821@gmail.com
