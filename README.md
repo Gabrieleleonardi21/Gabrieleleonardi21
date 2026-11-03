@@ -11,4 +11,4 @@ Lavoro con Java, Spring Boot, PostgreSQL, React e TypeScript, e uso Claude Code 
 - [build-week-4](https://github.com/Gabrieleleonardi21/build-week-4): CRM di team
 
 ## Contatti
-[LinkedIn](https://www.linkedin.com/in/gabriele-leonardi-5a742b209/) · leonardi.gabriele9821@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gabriele-leonardi-5a742b209/) · gabrieledev21@gmail.com
